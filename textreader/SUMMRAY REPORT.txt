@@ -1,0 +1,7 @@
+THE SUMMARY REPORT FOR THE PHONENUMBERS
+---------------------------------------
+The total number of MTEL phone numbers: 26596
+The total number of 9MOBILE phone numbers: 131409
+The total number of GLOBACOM phone numbers: 183734
+The total number of AIRTEL phone numbers: 263166
+The total number of MTN phone numbers: 395095
